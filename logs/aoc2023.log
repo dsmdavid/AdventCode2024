@@ -1,0 +1,7 @@
+2024-12-01 22:43:36,035 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 1
+2024-12-01 22:43:36,138 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-01 22:43:36,138 - __main__ - DEBUG - valid_status - 60236   87497
+27507   18604
+69810   73952
+60448   ...
+2024-12-01 22:43:36,138 - __main__ - INFO - download_input - Input saved to ./inputs/2024__1.txt
