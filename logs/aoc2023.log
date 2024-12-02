@@ -5,3 +5,9 @@
 69810   73952
 60448   ...
 2024-12-01 22:43:36,138 - __main__ - INFO - download_input - Input saved to ./inputs/2024__1.txt
+2024-12-02 05:21:46,414 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 2
+2024-12-02 05:21:46,532 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-02 05:21:46,532 - __main__ - DEBUG - valid_status - 16 17 18 21 23 24 27 24
+74 76 79 81 82 85 85
+48 51...
+2024-12-02 05:21:46,532 - __main__ - INFO - download_input - Input saved to ./inputs/2024__2.txt
