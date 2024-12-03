@@ -1,0 +1,10 @@
+models:
+  - name: day_03_02
+    columns:
+      - name: result
+        description: output of part 2
+        data_type: hugeint
+        data_tests:
+          - accepted_values:
+              values:
+                - "92082041"
