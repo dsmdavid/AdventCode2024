@@ -20,15 +20,22 @@ sample_input = """7 6 4 2 1
     "\n"
 )
 
+
 def valid_numbers(x: int, y: int) -> bool:
-    return (1 <= abs(x-y) <= 3)
+    return 1 <= abs(x - y) <= 3
+
 
 def valid_report(report: List) -> bool:
     # ascending or descending
-    valid_ascending_descending = (report == sorted(report) or report == list(reversed(sorted(report))))
+    valid_ascending_descending = report == sorted(report) or report == list(
+        reversed(sorted(report))
+    )
     # diff with prior > 1 <= 3
-    valid_distance = functools.reduce(lambda x, y: y * (x != 0 and valid_numbers(x,y)), report) > 0
+    valid_distance = (
+        functools.reduce(lambda x, y: y * (x != 0 and valid_numbers(x, y)), report) > 0
+    )
     return valid_ascending_descending * valid_distance
+
 
 def safe_report(report: List) -> bool:
     flag = False
@@ -36,10 +43,11 @@ def safe_report(report: List) -> bool:
     counter = 0
     flag = valid_report(report)
     while not flag and counter <= len(report):
-        tmp_report = report[0:counter] + report[counter+1:]
+        tmp_report = report[0:counter] + report[counter + 1 :]
         flag = valid_report(tmp_report)
         counter += 1
     return flag
+
 
 input_day = get_input("2024__2")
 input_to_use = input_day

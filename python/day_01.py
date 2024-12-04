@@ -21,8 +21,8 @@ sample_input = """3   4
 
 input_day = get_input("2024__1")
 input_to_use = input_day
-a,b = list(map(list, zip(*[list(map(int, x.split())) for x in input_to_use])))
+a, b = list(map(list, zip(*[list(map(int, x.split())) for x in input_to_use])))
 # part 1 - sort and compare
-part_1 = sum(abs(x-y) for x, y in zip(sorted(a), sorted(b)))
+part_1 = sum(abs(x - y) for x, y in zip(sorted(a), sorted(b)))
 part_2 = sum(x * b.count(x) for x in a)
 print(part_1, part_2)
