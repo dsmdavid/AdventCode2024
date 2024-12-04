@@ -9,7 +9,7 @@ WITH
 3   9
 3   3', '\n') AS raw
         {% else %}
-            SELECT raw FROM {{ ref('Day01_01_source') }}
+            SELECT raw FROM {{ ref('2024__1') }}
         {% endif %}
     ),
 
