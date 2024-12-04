@@ -15,3 +15,7 @@
 2024-12-03 05:21:09,724 - __main__ - INFO - valid_status - Valid response obtained
 2024-12-03 05:21:09,725 - __main__ - DEBUG - valid_status - [why()what()]:!*<)~mul(929,350)({)when()@mul(878,3...
 2024-12-03 05:21:09,725 - __main__ - INFO - download_input - Input saved to ./inputs/2024__3.txt
+2024-12-04 05:21:11,228 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 4
+2024-12-04 05:21:11,331 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-04 05:21:11,331 - __main__ - DEBUG - valid_status - MASAMXMSSXXMAMXXMXMASXMASXMMSMSMMMAXMASASMMSSMSXAX...
+2024-12-04 05:21:11,331 - __main__ - INFO - download_input - Input saved to ./inputs/2024__4.txt
