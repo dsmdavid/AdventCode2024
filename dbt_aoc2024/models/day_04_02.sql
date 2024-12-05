@@ -101,7 +101,8 @@ MXMXAXMASX
         SELECT
             row_id,
             col_id,
-            CASE
+            coalesce((p1 <> p4) and (p2 <> p3), false)
+            {# CASE
                 WHEN p1 = 'M' THEN p4 = 'S'
                 WHEN p1 = 'S' THEN p4 = 'M'
                 ELSE FALSE
@@ -110,7 +111,7 @@ MXMXAXMASX
             CASE
                 WHEN p2 = 'M' THEN p3 = 'S'
                 WHEN p2 = 'S' THEN p3 = 'M'
-                ELSE FALSE END
+                ELSE FALSE END #}
                 AS valid_xmas
         FROM pivoted_words
         WHERE valid_xmas
