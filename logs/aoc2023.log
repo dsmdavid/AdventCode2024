@@ -10,3 +10,7 @@
 63|65
 63...
 2024-12-05 05:21:22,710 - __main__ - INFO - download_input - Input saved to ./inputs/2024__5.txt
+2024-12-06 05:21:09,330 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 6
+2024-12-06 05:21:09,575 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-06 05:21:09,576 - __main__ - DEBUG - valid_status - ......##...#...#....#.......#....................#...
+2024-12-06 05:21:09,576 - __main__ - INFO - download_input - Input saved to ./inputs/2024__6.txt
