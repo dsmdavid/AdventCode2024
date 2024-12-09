@@ -24,3 +24,7 @@
 2024-12-08 05:19:51,648 - __main__ - INFO - valid_status - Valid response obtained
 2024-12-08 05:19:51,648 - __main__ - DEBUG - valid_status - ..........M..........j.............y.....O...........
 2024-12-08 05:19:51,649 - __main__ - INFO - download_input - Input saved to ./inputs/2024__8.txt
+2024-12-09 05:22:00,635 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 9
+2024-12-09 05:22:00,784 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-09 05:22:00,784 - __main__ - DEBUG - valid_status - 28416271487555953479241258525826546051745653975533...
+2024-12-09 05:22:00,784 - __main__ - INFO - download_input - Input saved to ./inputs/2024__9.txt
