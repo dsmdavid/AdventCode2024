@@ -38,3 +38,7 @@
 2024-12-11 05:21:21,687 - __main__ - DEBUG - valid_status - 4610211 4 0 59 3907 201586 929 33750
 ...
 2024-12-11 05:21:21,687 - __main__ - INFO - download_input - Input saved to ./inputs/2024__11.txt
+2024-12-12 05:21:24,133 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 12
+2024-12-12 05:21:24,287 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-12 05:21:24,287 - __main__ - DEBUG - valid_status - OORRQQQQQDUDDDDDDDDDDDDDDDDDDDYYDDDDPGGGGGGGGGGGNN...
+2024-12-12 05:21:24,287 - __main__ - INFO - download_input - Input saved to ./inputs/2024__12.txt
