@@ -42,3 +42,9 @@
 2024-12-12 05:21:24,287 - __main__ - INFO - valid_status - Valid response obtained
 2024-12-12 05:21:24,287 - __main__ - DEBUG - valid_status - OORRQQQQQDUDDDDDDDDDDDDDDDDDDDYYDDDDPGGGGGGGGGGGNN...
 2024-12-12 05:21:24,287 - __main__ - INFO - download_input - Input saved to ./inputs/2024__12.txt
+2024-12-13 05:21:22,327 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 13
+2024-12-13 05:21:22,650 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-13 05:21:22,650 - __main__ - DEBUG - valid_status - Button A: X+19, Y+50
+Button B: X+58, Y+35
+Prize: X...
+2024-12-13 05:21:22,651 - __main__ - INFO - download_input - Input saved to ./inputs/2024__13.txt
