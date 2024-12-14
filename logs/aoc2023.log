@@ -48,3 +48,9 @@
 Button B: X+58, Y+35
 Prize: X...
 2024-12-13 05:21:22,651 - __main__ - INFO - download_input - Input saved to ./inputs/2024__13.txt
+2024-12-14 05:19:29,038 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 14
+2024-12-14 05:19:29,177 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-14 05:19:29,177 - __main__ - DEBUG - valid_status - p=82,54 v=14,-84
+p=66,12 v=-87,21
+p=91,46 v=44,-45...
+2024-12-14 05:19:29,178 - __main__ - INFO - download_input - Input saved to ./inputs/2024__14.txt
