@@ -83,3 +83,7 @@ Register C: 0
 45,49
 7...
 2024-12-18 05:20:08,683 - __main__ - INFO - download_input - Input saved to ./inputs/2024__18.txt
+2024-12-19 05:20:43,700 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 19
+2024-12-19 05:20:43,818 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-19 05:20:43,818 - __main__ - DEBUG - valid_status - grbb, burb, wrwbrwg, uwwb, bwbbw, ubgrbu, gguu, ur...
+2024-12-19 05:20:43,819 - __main__ - INFO - download_input - Input saved to ./inputs/2024__19.txt
