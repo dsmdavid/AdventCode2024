@@ -91,3 +91,12 @@ Register C: 0
 2024-12-20 05:19:18,945 - __main__ - INFO - valid_status - Valid response obtained
 2024-12-20 05:19:18,945 - __main__ - DEBUG - valid_status - ##################################################...
 2024-12-20 05:19:18,945 - __main__ - INFO - download_input - Input saved to ./inputs/2024__20.txt
+2024-12-21 05:18:01,063 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 21
+2024-12-21 05:18:01,132 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-21 05:18:01,132 - __main__ - DEBUG - valid_status - 319A
+670A
+349A
+964A
+586A
+...
+2024-12-21 05:18:01,132 - __main__ - INFO - download_input - Input saved to ./inputs/2024__21.txt
