@@ -100,3 +100,13 @@ Register C: 0
 586A
 ...
 2024-12-21 05:18:01,132 - __main__ - INFO - download_input - Input saved to ./inputs/2024__21.txt
+2024-12-22 05:18:12,165 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 22
+2024-12-22 05:18:12,266 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-22 05:18:12,266 - __main__ - DEBUG - valid_status - 8404622
+4315145
+4484880
+7432090
+2282624
+5418664
+69...
+2024-12-22 05:18:12,267 - __main__ - INFO - download_input - Input saved to ./inputs/2024__22.txt
