@@ -133,3 +133,16 @@ x05: 0
 x06: 1
 x...
 2024-12-24 05:19:14,517 - __main__ - INFO - download_input - Input saved to ./inputs/2024__24.txt
+2024-12-25 05:19:22,818 - __main__ - DEBUG - download_input - Configured to run as year: 2024 and day: 25
+2024-12-25 05:19:22,905 - __main__ - INFO - valid_status - Valid response obtained
+2024-12-25 05:19:22,906 - __main__ - DEBUG - valid_status - #####
+.####
+..##.
+..#..
+..#..
+..#..
+.....
+
+.....
+....
+2024-12-25 05:19:22,906 - __main__ - INFO - download_input - Input saved to ./inputs/2024__25.txt
